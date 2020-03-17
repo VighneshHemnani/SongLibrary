@@ -4,7 +4,7 @@ This is a project exercise where we made a Java class to keep track of a song's 
 Overview of the project:
 For this project, we made a Java class that tracks a song's information (in Song.java) and then we made the appropriate methods to add, remove, update information, print and sort the songs using different sorting algorithms.
 
-## # **Attached files:**
+## **Attached files:**
 
   1. **IO.java and IO.html**:
     - The IO class is a class developed that holds easier functions to read and/or output the appropriate data type.
